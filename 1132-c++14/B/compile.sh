@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wshadow -Wall -o B.exe B.cpp -O2 -Wno-unused-result
